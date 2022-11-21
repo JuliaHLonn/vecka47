@@ -8,4 +8,6 @@ Jag testar lite *italic text*
 
 >Här kommer en supersnygg
 >
->Block quote
+>Block quote  
+1. Här är listpunkt ett
+2. Här är listpunkt två
